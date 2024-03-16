@@ -48,7 +48,7 @@ Le langage de programmation arabe prend actuellement en charge les fonctionnalit
 
 Pour exécuter du code écrit dans le langage de programmation arabe à l'aide de l'interpréteur, exécutez le fichier `main.py` avec un fichier de code arabe comme argument :
 ```sh
-python main.py .\test\ test1.arpl
+python main.py .\test\test1.arpl
 ```
 
 
